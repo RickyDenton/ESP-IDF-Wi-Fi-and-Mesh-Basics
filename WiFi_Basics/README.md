@@ -8,7 +8,7 @@ The purpose of this program is to provide a comprehensive framework for developi
 
 The features offered by the application framework include:
 
-* The possibility of customizing via the 'menuconfig' utility most of the aspects of Wi-Fi networking on a device, from its Station and SoftAP base configurations to their MAC and IP addresses, to the power saving mode to use on the Station interface, and more.
+* The possibility of customizing via the `menuconfig` utility most of the aspects of Wi-Fi networking on a device, from its Station and SoftAP base configurations to their MAC and IP addresses, to the power saving mode to use on the Station interface, and more.
 
 * A detailed code documentation and runtime logging of the evolution of the application’s execution.
 
