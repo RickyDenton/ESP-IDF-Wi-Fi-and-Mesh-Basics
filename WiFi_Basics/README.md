@@ -1,4 +1,4 @@
-# ESP-IDF Mesh Stack Application Framework & Practical Guide
+# ESP-IDF Wi-Fi Stack Application Framework & Practical Guide
 
 The purpose of this program is to provide a comprehensive framework for developing applications using the Wi-Fi networking functionalities currently offered by the ESP-IDF Wi-Fi stack as of version 3.1, which are described in detail along with the framework architecture in the attached *ESP-IDF Wi-Fi Stack Practical Guide*.
 
