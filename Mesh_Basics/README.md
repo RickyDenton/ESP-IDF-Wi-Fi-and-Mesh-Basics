@@ -8,7 +8,7 @@ The purpose of this program is to provide a comprehensive framework for developi
 
 The features offered by the application framework include:
 
-* The possibility of customizing via the 'menuconfig' utility all aspects of mesh networking on nodes, from the Mesh Network ID and the external router configuration to the organization mode used in the network (Self-Organized, Fixed-Root or Manual Networking), from configuring network topology and root election parameters to the possibility of adding nodes to mesh groups, and much more.
+* The possibility of customizing via the `menuconfig` utility all aspects of mesh networking on nodes, from the Mesh Network ID and the external router configuration to the organization mode used in the network (Self-Organized, Fixed-Root or Manual Networking), from configuring network topology and root election parameters to the possibility of adding nodes to mesh groups, and much more.
 
 * A detailed code documentation and runtime logging of the evolution of the application's execution.
 
